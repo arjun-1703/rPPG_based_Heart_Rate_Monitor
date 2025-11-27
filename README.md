@@ -3,10 +3,6 @@ Heart Rate Monitor - Contactless heart rate detection using webcam &amp; compute
 Heart Rate Monitor - Remote PPG using Webcam
 A real-time, non-contact heart rate monitoring system that uses computer vision and photoplethysmography (PPG) to detect heart rate through standard webcam footage.
 
-https://img.shields.io/badge/Version-1.0-blue.svg
-https://img.shields.io/badge/Python-3.8%252B-green.svg
-https://img.shields.io/badge/OpenCV-4.5%252B-orange.svg
-
 🎯 Overview
 This project implements a remote photoplethysmography (rPPG) system that can detect heart rate by analyzing subtle color changes in facial skin caused by blood circulation. The system uses multiple facial regions (forehead and cheeks) for robust signal extraction and combines advanced signal processing techniques for accurate heart rate calculation.
 
